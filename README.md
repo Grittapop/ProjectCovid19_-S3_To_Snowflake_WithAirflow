@@ -1,1 +1,1 @@
-# ProjectCovid19_S3_To_Snowflake_WithAirflow
+# ProjectCovidTH_S3_To_Snowflake_WithAirflow
