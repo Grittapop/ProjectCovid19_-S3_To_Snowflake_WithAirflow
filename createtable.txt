@@ -1,0 +1,16 @@
+CREATE TABLE IF NOT EXISTS weekly_covid_patient_information (
+    Year int,
+    Weeknum int,
+    Gender varchar,
+    "Age (Years)" varchar,
+    "Age_Range (Years)" varchar,
+    Job varchar,
+    Risk varchar,
+    "Patient_Type" varchar,
+    Province varchar,
+    "Reporting_Group" varchar,
+    "Region_Odpc" varchar,
+    Region varchar,
+    "Update_Date" datetime
+
+);
