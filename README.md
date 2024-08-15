@@ -94,6 +94,12 @@ Make sure to create an **IAM** Role with full permissions to access S3 to get th
 
   ![Screenshot 2024-03-06 023142](https://github.com/user-attachments/assets/3ad61383-42ee-4ff0-8bc7-c61a02dd3583)
 
+## Data Pipeline
+Completed Data Pipeline
+
+![Screenshot 2024-03-06 033639](https://github.com/user-attachments/assets/19d25580-ffd4-41c3-bceb-fe10a708edae)
+
+
 ## References
 - [Apache Airflow Documentation](https://airflow.apache.org/docs/)
 - [Running Airflow in Docker](https://airflow.apache.org/docs/apache-airflow/stable/start/docker.html)
