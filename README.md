@@ -78,6 +78,43 @@ Make sure to create an **IAM** Role with full permissions to access S3 to get th
 
 ![Screenshot 2024-03-06 022603](https://github.com/user-attachments/assets/cd7e91eb-21ff-48a5-96ac-95bc13a0208b)
 
+## Airflow Connection to Snowflake and API
+- Access the Airflow web interface.
+- Navigate to **Admin** > **Connections**.
+- Click on the + button to create a new connection.
+
+  **Snowflake**
+
+  ![Screenshot 2024-03-06 024000](https://github.com/user-attachments/assets/e4e365f7-0c30-437f-9185-6f4901edf48a)
+
+
+  ![Screenshot 2024-03-06 024019](https://github.com/user-attachments/assets/f27bcc22-9c4e-462d-b61b-0b110dcb8627)
+
+  **API (Source)**
+
+  ![Screenshot 2024-03-06 023142](https://github.com/user-attachments/assets/3ad61383-42ee-4ff0-8bc7-c61a02dd3583)
+
+## References
+- [Apache Airflow Documentation](https://airflow.apache.org/docs/)
+- [Running Airflow in Docker](https://airflow.apache.org/docs/apache-airflow/stable/start/docker.html)
+- [Snowflake Documentation](https://docs.snowflake.com/)
+- [AWS S3 Documentation](https://docs.aws.amazon.com/s3/)
+- [Slack API Documentation](https://api.slack.com/docs)
+  
+
+
+
+
+
+
+
+  
+
+
+
+  
+
+
 
 
 
